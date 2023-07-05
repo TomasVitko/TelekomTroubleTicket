@@ -1,6 +1,6 @@
 {
     "id": "1",
-    "href":,
+    "href": "",
     "creationDate": "2023-07-01",
     "description": "Ticket description",
     "expectedResolutionDate": "2023-07-10",
@@ -23,7 +23,7 @@
     "statusChange": "None",
     "troubleTicketRelationship": "troubleTicketRelationship",
     "baseType": "TroubleTicket",
-    "schemaLocation": "http://example.com/schemaLocation",
-    "type": "TelekomTroubleTicket"
-    "TelekomName": "TelekomName"
+    "schemaLocation": "https://github.com/TomasVitko/TelekomTroubleTicket/blob/main/TelekomTroubleTicket.json",
+    "type": "TelekomTroubleTicket",
+    "TelekomName": "TelekomName",
 }
